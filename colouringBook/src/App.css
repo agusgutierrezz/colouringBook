@@ -1,0 +1,12 @@
+#path3295 {
+}
+
+.color-palette {
+  display: flex;
+  width: 50%;
+  flex-wrap: wrap;
+}
+.box {
+  height: 10vh;
+  width: 10vh;
+}
